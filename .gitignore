@@ -1,0 +1,49 @@
+# Node
+node_modules/
+
+# Vite / build outputs
+dist/
+.vite/
+build/
+
+# Local env files
+.env
+.env.*.local
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Coverage
+coverage/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tgz
+out/
+.vscode-test/
+
+# Lockfiles (optional - uncomment if you don't want to commit lockfile)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
