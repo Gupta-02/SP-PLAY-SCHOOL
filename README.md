@@ -55,9 +55,6 @@ npm run preview
 - Tailwind CSS
 - shadcn-ui / Radix UI primitives
 
-## Notes
+## Depolyment
 
-- This workspace already contains common UI building blocks under [src/components/ui](src/components/ui).
-- To run linting, use `npm run lint`. Adjust or add ESLint rules in `eslint.config.js`.
-
-If you'd like, I can add usage examples, contribution guidelines, or CI instructions next.
+- Vercel 
